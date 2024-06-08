@@ -14,7 +14,7 @@
 To use DummyAnnotator, you need Python 3.x and the Tkinter library. You can install Tkinter using the following command:
 
 ```bash
-pip install tk
+pip install -r requirements.txt
 ```
 
 ## Usage
